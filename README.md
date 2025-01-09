@@ -111,6 +111,7 @@ University of Science and Technology of China (USTC), [Intelligent Media Computi
 ### Joint-Human-and-Machine-Vision
 |Model| Paper | First Author | Note | Venue | Data | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| | [An Efficient Adaptive Compression Method for Human Perception and Machine Vision Tasks](https://arxiv.org/pdf/2501.04329) | Lei Liu |  | PrePrint'25 | Image | |
 | | [A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf) | Sha Guo and Lin Sui | multi-task | ECCV2024 | Image | |
 | | [Rate-distortion cognitive controllable versatile neural image compression](https://arxiv.org/pdf/2407.11700) | Jinming Liu | | ECCV2024 | Image | |
 |Adapt-ICMH| [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](https://arxiv.org/pdf/2407.09853) | Han Li | Adapter | ECCV2024 | Image | [Code](https://github.com/qingshi9974/ECCV2024-AdpatICMH) |
